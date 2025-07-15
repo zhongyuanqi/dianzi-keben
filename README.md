@@ -1,5 +1,5 @@
 # dianzikeben
-电子课本 - 小嘟嘟网
+分享最新电子课本 - 小嘟嘟网
 
 来源：https://basic.smartedu.cn/
 
