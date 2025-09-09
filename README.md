@@ -11,5 +11,8 @@
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/3e16f0a4-c317-4375-bbf2-ea754ebd1118" />
 
 ## 更新日志
-2025-09-09 初中音乐电子课本/人教版（简谱）/义务教育教科书_音乐（简谱）八年级上册（2025-08）.pdf
-2025-09-09 初中音乐电子课本/人教版（五线谱）/义务教育教科书_音乐（五线谱）八年级上册（2025-08）.pdf
+
+### 2025-09-09
+[初中音乐电子课本/人教版（简谱）/义务教育教科书_音乐（简谱）八年级上册（2025-08）.pdf](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%88%9D%E4%B8%AD%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%88%9D%E4%B8%AD%E9%9F%B3%E4%B9%90%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC)  
+[初中音乐电子课本/人教版（五线谱）/义务教育教科书_音乐（五线谱）八年级上册（2025-08）.pdf](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%88%9D%E4%B8%AD%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%88%9D%E4%B8%AD%E9%9F%B3%E4%B9%90%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC)  
+
