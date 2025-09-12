@@ -12,7 +12,7 @@
 ## 更新日志
 
 ### 2025-09-12
-[小学数学电子课本\人教版](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
+[更新小学数学电子课本:所有版本的2025年8月更新的所有年级上册课本](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
 
 ### 2025-09-11
 [小学语文电子课本\统编版](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E8%AF%AD%E6%96%87%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
