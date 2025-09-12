@@ -7,8 +7,7 @@
 更新慢了可以在公众号留言或私信催一下。
 
 对应的科目都有网盘地址。
-
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/3e16f0a4-c317-4375-bbf2-ea754ebd1118" />
+<!-- <img width="800" alt="image" src="https://github.com/user-attachments/assets/3e16f0a4-c317-4375-bbf2-ea754ebd1118" /> -->
 
 ## 更新日志
 
