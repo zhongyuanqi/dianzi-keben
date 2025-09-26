@@ -11,6 +11,12 @@
 
 ## 更新日志
 
+### 2025-09-26
+[小学音乐:更新2025年8月最新的课本]
+
+### 2025-09-25
+[小学英语:更新2025年8月最新的课本](https://github.com/zhongyuanqi/dianzi-keben/edit/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E8%8B%B1%E8%AF%AD%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
+
 ### 2025-09-12
 [小学数学:2025年8月更新的课本](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
 
