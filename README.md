@@ -11,6 +11,9 @@
 
 ## 更新日志
 
+### 2025-09-29
+[小学科学:更新2025年8月最新的课本](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
+
 ### 2025-09-28
 [小学美术:更新2025年8月最新的课本](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E7%BE%8E%E6%9C%AF%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
 
