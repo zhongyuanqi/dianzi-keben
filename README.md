@@ -11,6 +11,9 @@
 
 ## 更新日志
 
+### 2025-10-09
+[小学体育与健康:更新2025年8月最新的课本](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E5%BA%B7%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
+
 ### 2025-09-30
 [小学语文书法练习指导:更新2025年8月最新的课本](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E8%AF%AD%E6%96%87%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E6%8C%87%E5%AF%BC%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
 
