@@ -11,6 +11,9 @@
 
 ## 更新日志
 
+### 2025-11-16
+[所有高中电子课本：更新至2025年8月秋季最新课本](https://github.com/zhongyuanqi/dianzi-keben/tree/main/%E9%AB%98%E4%B8%AD%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC)
+
 ### 2025-11-05
 [所有初中电子课本：更新至2025年8月秋季最新课本](https://github.com/zhongyuanqi/dianzi-keben/tree/main/%E5%88%9D%E4%B8%AD%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC)
 
