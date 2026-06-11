@@ -12,10 +12,10 @@
 ## 更新日志
 
 ### 2026-06-11
-[小学语文电子课本](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E8%AF%AD%E6%96%87%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
+[小学语文电子课本-更新至206年3月](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E8%AF%AD%E6%96%87%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
 
 ### 2026-06-10
-[小学道德与法治电子课本](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
+[小学道德与法治电子课本-更新至206年3月](https://github.com/zhongyuanqi/dianzi-keben/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%B0%8F%E5%AD%A6%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC.md)
 
 ### 2025-11-16
 [所有高中电子课本：更新至2025年8月秋季最新课本](https://github.com/zhongyuanqi/dianzi-keben/tree/main/%E9%AB%98%E4%B8%AD%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC)
